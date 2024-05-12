@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/u/cdominic/cs429/project3-skeleton/libtdmm/tdmm.c
+tdmm.h
+/u/cdominic/cs429/project3-skeleton/libtdmm/tdmm.h
+fcntl.h
+-
+stdbool.h
+-
+stdio.h
+-
+string.h
+-
+sys/mman.h
+-
+unistd.h
+-
+
+/u/cdominic/cs429/project3-skeleton/libtdmm/tdmm.h
+stddef.h
+-
+

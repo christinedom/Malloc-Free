@@ -1,0 +1,6 @@
+/u/cdominic/cs429/project3-skeleton/CMakeFiles/rebuild_cache.dir
+/u/cdominic/cs429/project3-skeleton/CMakeFiles/edit_cache.dir
+/u/cdominic/cs429/project3-skeleton/CMakeFiles/project3.dir
+/u/cdominic/cs429/project3-skeleton/libtdmm/CMakeFiles/rebuild_cache.dir
+/u/cdominic/cs429/project3-skeleton/libtdmm/CMakeFiles/edit_cache.dir
+/u/cdominic/cs429/project3-skeleton/libtdmm/CMakeFiles/tdmm.dir
